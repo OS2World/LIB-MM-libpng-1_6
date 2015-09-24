@@ -1,0 +1,48 @@
+contrib/tools/png-fix-itxt.o contrib/tools/png-fix-itxt.o:  \
+ contrib/tools/png-fix-itxt.c f:/lang/gcc/usr/include/stdio.h \
+  f:/lang/gcc/usr/include/sys/cdefs.h \
+  f:/lang/gcc/usr/include/sys/gnu/cdefs.h \
+  f:/lang/gcc/usr/include/features.h f:/lang/gcc/usr/include/sys/_types.h \
+  f:/lang/gcc/usr/include/machine/_types.h \
+  f:/lang/gcc/usr/include/386/_types.h f:/usr/include/zlib.h \
+  f:/usr/include/zconf.h f:/lang/gcc/usr/include/sys/types.h \
+  f:/lang/gcc/usr/include/machine/endian.h \
+  f:/lang/gcc/usr/include/386/endian.h \
+  f:/lang/gcc/usr/include/sys/select.h \
+  f:/lang/gcc/usr/include/sys/_sigset.h f:/lang/gcc/usr/include/unistd.h \
+  f:/lang/gcc/usr/include/sys/unistd.h \
+  f:/lang/gcc/usr/include/sys/_null.h
+
+f:/lang/gcc/usr/include/stdio.h:
+
+f:/lang/gcc/usr/include/sys/cdefs.h:
+
+f:/lang/gcc/usr/include/sys/gnu/cdefs.h:
+
+f:/lang/gcc/usr/include/features.h:
+
+f:/lang/gcc/usr/include/sys/_types.h:
+
+f:/lang/gcc/usr/include/machine/_types.h:
+
+f:/lang/gcc/usr/include/386/_types.h:
+
+f:/usr/include/zlib.h:
+
+f:/usr/include/zconf.h:
+
+f:/lang/gcc/usr/include/sys/types.h:
+
+f:/lang/gcc/usr/include/machine/endian.h:
+
+f:/lang/gcc/usr/include/386/endian.h:
+
+f:/lang/gcc/usr/include/sys/select.h:
+
+f:/lang/gcc/usr/include/sys/_sigset.h:
+
+f:/lang/gcc/usr/include/unistd.h:
+
+f:/lang/gcc/usr/include/sys/unistd.h:
+
+f:/lang/gcc/usr/include/sys/_null.h:

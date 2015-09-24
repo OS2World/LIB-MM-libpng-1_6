@@ -1,0 +1,76 @@
+contrib/libtests/pngunknown.o contrib/libtests/pngunknown.o:  \
+ contrib/libtests/pngunknown.c f:/lang/gcc/usr/include/stdlib.h \
+  f:/lang/gcc/usr/include/sys/cdefs.h \
+  f:/lang/gcc/usr/include/sys/gnu/cdefs.h \
+  f:/lang/gcc/usr/include/features.h f:/lang/gcc/usr/include/sys/_null.h \
+  f:/lang/gcc/usr/include/sys/_types.h \
+  f:/lang/gcc/usr/include/machine/_types.h \
+  f:/lang/gcc/usr/include/386/_types.h f:/lang/gcc/usr/include/malloc.h \
+  f:/lang/gcc/usr/include/string.h f:/lang/gcc/usr/include/strings.h \
+  f:/lang/gcc/usr/include/stdio.h f:/lang/gcc/usr/include/setjmp.h \
+  f:/lang/gcc/usr/include/machine/setjmp.h \
+  f:/lang/gcc/usr/include/386/setjmp.h png.h pnglibconf.h pngconf.h \
+  f:/lang/gcc/usr/lib/gcc-lib/i386-pc-os2-emx/3.3.5/include/limits.h \
+  f:/lang/gcc/usr/lib/gcc-lib/i386-pc-os2-emx/3.3.5/include/syslimits.h \
+  f:/lang/gcc/usr/include/limits.h f:/lang/gcc/usr/include/sys/limits.h \
+  f:/lang/gcc/usr/include/machine/_limits.h \
+  f:/lang/gcc/usr/include/386/_limits.h \
+  f:/lang/gcc/usr/include/sys/syslimits.h \
+  f:/lang/gcc/usr/include/stddef.h f:/lang/gcc/usr/include/time.h \
+  f:/lang/gcc/usr/include/sys/timespec.h
+
+f:/lang/gcc/usr/include/stdlib.h:
+
+f:/lang/gcc/usr/include/sys/cdefs.h:
+
+f:/lang/gcc/usr/include/sys/gnu/cdefs.h:
+
+f:/lang/gcc/usr/include/features.h:
+
+f:/lang/gcc/usr/include/sys/_null.h:
+
+f:/lang/gcc/usr/include/sys/_types.h:
+
+f:/lang/gcc/usr/include/machine/_types.h:
+
+f:/lang/gcc/usr/include/386/_types.h:
+
+f:/lang/gcc/usr/include/malloc.h:
+
+f:/lang/gcc/usr/include/string.h:
+
+f:/lang/gcc/usr/include/strings.h:
+
+f:/lang/gcc/usr/include/stdio.h:
+
+f:/lang/gcc/usr/include/setjmp.h:
+
+f:/lang/gcc/usr/include/machine/setjmp.h:
+
+f:/lang/gcc/usr/include/386/setjmp.h:
+
+png.h:
+
+pnglibconf.h:
+
+pngconf.h:
+
+f:/lang/gcc/usr/lib/gcc-lib/i386-pc-os2-emx/3.3.5/include/limits.h:
+
+f:/lang/gcc/usr/lib/gcc-lib/i386-pc-os2-emx/3.3.5/include/syslimits.h:
+
+f:/lang/gcc/usr/include/limits.h:
+
+f:/lang/gcc/usr/include/sys/limits.h:
+
+f:/lang/gcc/usr/include/machine/_limits.h:
+
+f:/lang/gcc/usr/include/386/_limits.h:
+
+f:/lang/gcc/usr/include/sys/syslimits.h:
+
+f:/lang/gcc/usr/include/stddef.h:
+
+f:/lang/gcc/usr/include/time.h:
+
+f:/lang/gcc/usr/include/sys/timespec.h:
